@@ -1,3 +1,5 @@
+package randomTries;
+
 public class FundamentalExercises {
 
     public static String sayMyName(String name) {
@@ -30,10 +32,15 @@ public class FundamentalExercises {
         return result;
     }
 
+    public static long anotheFunction(Integer num){
+        return 1;
+    }
+
     public static void main(String[] args) {
         sayMyName("Jose");
         sayMyAge(18);
         factorialNumbers(3);
+        anotheFunction(5)
     }
 
 }

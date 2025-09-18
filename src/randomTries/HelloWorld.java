@@ -1,3 +1,5 @@
+package randomTries;
+
 public class HelloWorld {
 
     static void main(String[] args) {
